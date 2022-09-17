@@ -1,0 +1,8 @@
+D:\programare\Max volosenko\Programare again\StefaniniTask\StefaniniTask\bin\Debug\StefaniniTask.exe.config
+D:\programare\Max volosenko\Programare again\StefaniniTask\StefaniniTask\bin\Debug\StefaniniTask.exe
+D:\programare\Max volosenko\Programare again\StefaniniTask\StefaniniTask\bin\Debug\StefaniniTask.pdb
+D:\programare\Max volosenko\Programare again\StefaniniTask\StefaniniTask\obj\Debug\StefaniniTask.csproj.AssemblyReference.cache
+D:\programare\Max volosenko\Programare again\StefaniniTask\StefaniniTask\obj\Debug\StefaniniTask.csproj.SuggestedBindingRedirects.cache
+D:\programare\Max volosenko\Programare again\StefaniniTask\StefaniniTask\obj\Debug\StefaniniTask.csproj.CoreCompileInputs.cache
+D:\programare\Max volosenko\Programare again\StefaniniTask\StefaniniTask\obj\Debug\StefaniniTask.exe
+D:\programare\Max volosenko\Programare again\StefaniniTask\StefaniniTask\obj\Debug\StefaniniTask.pdb

@@ -12,6 +12,14 @@ namespace StefaniniTask
         public float Price { get; set; }
         public string Name { get; set; }
 
+       
+
         
+        
+        
+        
+     
+
+
     }
 }
